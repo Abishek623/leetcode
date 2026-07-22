@@ -5,4 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Abishek623/leetcode/tree/master/0263-ugly-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Abishek623/leetcode/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Abishek623/leetcode/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Abishek623/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
