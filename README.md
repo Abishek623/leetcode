@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Abishek623/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Abishek623/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Abishek623/leetcode/tree/master/0409-longest-palindrome) |
 ## Dynamic Programming
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Abishek623/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Abishek623/leetcode/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
@@ -40,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Abishek623/leetcode/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Abishek623/leetcode/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Abishek623/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
