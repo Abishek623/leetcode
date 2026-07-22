@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abishek623/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Abishek623/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0389-find-the-difference](https://github.com/Abishek623/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Abishek623/leetcode/tree/master/0409-longest-palindrome) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abishek623/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Abishek623/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
