@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Abishek623/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Abishek623/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Abishek623/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Abishek623/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Abishek623/leetcode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/Abishek623/leetcode/tree/master/2235-add-two-integers) |
 | [2544-alternating-digit-sum](https://github.com/Abishek623/leetcode/tree/master/2544-alternating-digit-sum) |
@@ -62,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Abishek623/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Abishek623/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Abishek623/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Abishek623/leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abishek623/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Abishek623/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Abishek623/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Abishek623/leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
