@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Abishek623/leetcode/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Abishek623/leetcode/tree/master/0058-length-of-last-word) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abishek623/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abishek623/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Abishek623/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Abishek623/leetcode/tree/master/0409-longest-palindrome) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Abishek623/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abishek623/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/Abishek623/leetcode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abishek623/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abishek623/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Abishek623/leetcode/tree/master/0409-longest-palindrome) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abishek623/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -189,7 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Abishek623/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Abishek623/leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Abishek623/leetcode/tree/master/1051-height-checker) |
 | [1748-sum-of-unique-elements](https://github.com/Abishek623/leetcode/tree/master/1748-sum-of-unique-elements) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Abishek623/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
