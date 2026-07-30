@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abishek623/leetcode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Abishek623/leetcode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abishek623/leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Abishek623/leetcode/tree/master/0409-longest-palindrome) |
 ## Linked List
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abishek623/leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Abishek623/leetcode/tree/master/0018-4sum) |
+| [0055-jump-game](https://github.com/Abishek623/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Abishek623/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Abishek623/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abishek623/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
