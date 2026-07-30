@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Abishek623/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Abishek623/leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Abishek623/leetcode/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/Abishek623/leetcode/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/Abishek623/leetcode/tree/master/0561-array-partition) |
+| [0739-daily-temperatures](https://github.com/Abishek623/leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Abishek623/leetcode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Abishek623/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abishek623/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Abishek623/leetcode/tree/master/1291-sequential-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Abishek623/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
