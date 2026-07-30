@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Abishek623/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Abishek623/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Abishek623/leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Abishek623/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Abishek623/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Abishek623/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Abishek623/leetcode/tree/master/0231-power-of-two) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abishek623/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Abishek623/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Abishek623/leetcode/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/Abishek623/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abishek623/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Abishek623/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Abishek623/leetcode/tree/master/0066-plus-one) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abishek623/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abishek623/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Abishek623/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Number Theory
