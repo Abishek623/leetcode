@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Abishek623/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abishek623/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Abishek623/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Abishek623/leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Abishek623/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Abishek623/leetcode/tree/master/0069-sqrtx) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Abishek623/leetcode/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Abishek623/leetcode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/Abishek623/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Abishek623/leetcode/tree/master/0392-is-subsequence) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abishek623/leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Abishek623/leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Abishek623/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abishek623/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0389-find-the-difference](https://github.com/Abishek623/leetcode/tree/master/0389-find-the-difference) |
