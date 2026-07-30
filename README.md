@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Abishek623/leetcode/tree/master/0018-4sum) |
 | [0234-palindrome-linked-list](https://github.com/Abishek623/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Abishek623/leetcode/tree/master/0392-is-subsequence) |
 ## String
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Abishek623/leetcode/tree/master/0018-4sum) |
 | [0389-find-the-difference](https://github.com/Abishek623/leetcode/tree/master/0389-find-the-difference) |
 ## Tree
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abishek623/leetcode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Abishek623/leetcode/tree/master/0018-4sum) |
 | [0073-set-matrix-zeroes](https://github.com/Abishek623/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
