@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Abishek623/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abishek623/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Abishek623/leetcode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Abishek623/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Abishek623/leetcode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Abishek623/leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Abishek623/leetcode/tree/master/0412-fizz-buzz) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abishek623/leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Abishek623/leetcode/tree/master/0018-4sum) |
+| [0066-plus-one](https://github.com/Abishek623/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Abishek623/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abishek623/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Matrix
