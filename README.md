@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abishek623/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Abishek623/leetcode/tree/master/0018-4sum) |
 | [0234-palindrome-linked-list](https://github.com/Abishek623/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Abishek623/leetcode/tree/master/0392-is-subsequence) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abishek623/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Abishek623/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Abishek623/leetcode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/Abishek623/leetcode/tree/master/0409-longest-palindrome) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abishek623/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Abishek623/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Abishek623/leetcode/tree/master/0018-4sum) |
 | [0054-spiral-matrix](https://github.com/Abishek623/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Abishek623/leetcode/tree/master/0055-jump-game) |
