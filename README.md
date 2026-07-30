@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abishek623/leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Abishek623/leetcode/tree/master/0018-4sum) |
+| [0054-spiral-matrix](https://github.com/Abishek623/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Abishek623/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Abishek623/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Abishek623/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Abishek623/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Abishek623/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Number Theory
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Abishek623/leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Abishek623/leetcode/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
