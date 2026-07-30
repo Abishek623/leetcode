@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Abishek623/leetcode/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/Abishek623/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abishek623/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Abishek623/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abishek623/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0389-find-the-difference](https://github.com/Abishek623/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Abishek623/leetcode/tree/master/0409-longest-palindrome) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Abishek623/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abishek623/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Greedy
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Abishek623/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abishek623/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Abishek623/leetcode/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Abishek623/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Tree
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Abishek623/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abishek623/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Abishek623/leetcode/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Abishek623/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/Abishek623/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abishek623/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abishek623/leetcode/tree/master/0069-sqrtx) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Abishek623/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abishek623/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
