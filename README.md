@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Abishek623/leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Abishek623/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Abishek623/leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Abishek623/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Abishek623/leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Abishek623/leetcode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/Abishek623/leetcode/tree/master/2235-add-two-integers) |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Abishek623/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Abishek623/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abishek623/leetcode/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/Abishek623/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Abishek623/leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
