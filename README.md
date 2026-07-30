@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Abishek623/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abishek623/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Abishek623/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Abishek623/leetcode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abishek623/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Abishek623/leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Abishek623/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Abishek623/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Abishek623/leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
