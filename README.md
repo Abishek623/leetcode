@@ -213,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Abishek623/leetcode/tree/master/0739-daily-temperatures) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Abishek623/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
