@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Abishek623/leetcode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abishek623/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Abishek623/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Abishek623/leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abishek623/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abishek623/leetcode/tree/master/0389-find-the-difference) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abishek623/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Abishek623/leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Abishek623/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Abishek623/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abishek623/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Abishek623/leetcode/tree/master/0169-majority-element) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Abishek623/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Abishek623/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Abishek623/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abishek623/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abishek623/leetcode/tree/master/0217-contains-duplicate) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Abishek623/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Abishek623/leetcode/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/Abishek623/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Abishek623/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Abishek623/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Abishek623/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Abishek623/leetcode/tree/master/0066-plus-one) |
