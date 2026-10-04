@@ -1,8 +1,15 @@
-class Solution:
+class Solution(object):
     def isPalindrome(self, x):
-        y = str(x)
-        z = y[::-1]      
-        if y == z:
+        original =x
+        reversed=0
+        while x>0:
+            u=x%10
+            reversed=reversed*10+u
+            x=x//10
+        if original==reversed:
             return True
         else:
             return False
+
+
+        
