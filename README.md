@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Abishek623/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Abishek623/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Abishek623/leetcode/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Abishek623/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abishek623/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Abishek623/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abishek623/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Abishek623/leetcode/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Abishek623/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abishek623/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/Abishek623/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abishek623/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abishek623/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Abishek623/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
