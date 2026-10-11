@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abishek623/leetcode/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/Abishek623/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Abishek623/leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Abishek623/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Abishek623/leetcode/tree/master/0342-power-of-four) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abishek623/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Abishek623/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Abishek623/leetcode/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
