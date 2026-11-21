@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Abishek623/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Abishek623/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abishek623/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Abishek623/leetcode/tree/master/0496-next-greater-element-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abishek623/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/Abishek623/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abishek623/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Abishek623/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Abishek623/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abishek623/leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abishek623/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abishek623/leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Abishek623/leetcode/tree/master/0228-summary-ranges) |
+| [0496-next-greater-element-i](https://github.com/Abishek623/leetcode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Abishek623/leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Abishek623/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Abishek623/leetcode/tree/master/0739-daily-temperatures) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Abishek623/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abishek623/leetcode/tree/master/0739-daily-temperatures) |
 ## Database
 |  |
