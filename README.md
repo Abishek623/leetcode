@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Abishek623/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Abishek623/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Abishek623/leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Abishek623/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abishek623/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Abishek623/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Abishek623/leetcode/tree/master/0326-power-of-three) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Abishek623/leetcode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abishek623/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Abishek623/leetcode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Abishek623/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Abishek623/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Abishek623/leetcode/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/Abishek623/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Abishek623/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abishek623/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Abishek623/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Abishek623/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abishek623/leetcode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Abishek623/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abishek623/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -281,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abishek623/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Abishek623/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Abishek623/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
