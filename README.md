@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Abishek623/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abishek623/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Abishek623/leetcode/tree/master/0412-fizz-buzz) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abishek623/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Abishek623/leetcode/tree/master/2235-add-two-integers) |
 | [2544-alternating-digit-sum](https://github.com/Abishek623/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/Abishek623/leetcode/tree/master/2652-sum-multiples) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Abishek623/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/Abishek623/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Abishek623/leetcode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abishek623/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abishek623/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abishek623/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abishek623/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abishek623/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abishek623/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -301,4 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Abishek623/leetcode/tree/master/0202-happy-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abishek623/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abishek623/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
