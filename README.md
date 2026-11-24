@@ -147,12 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abishek623/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Abishek623/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Abishek623/leetcode/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Abishek623/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abishek623/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Abishek623/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Abishek623/leetcode/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Abishek623/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Abishek623/leetcode/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Abishek623/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abishek623/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Counting Sort
@@ -312,4 +315,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abishek623/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Abishek623/leetcode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Abishek623/leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Abishek623/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
